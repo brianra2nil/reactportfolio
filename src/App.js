@@ -58,7 +58,7 @@ const App = () => {
         <Route path="/Contact" component={Contact} />
       </Switch>
       </div>
-      <div  className="fixed-bottom">
+      <div  className="sticky-bottom">
       <Navbar color="light" light expand="md">
         <NavbarBrand >Brian Ratunil</NavbarBrand>
         <NavbarToggler onClick={toggle} />
