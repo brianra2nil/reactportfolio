@@ -17,7 +17,7 @@ import {
   DropdownItem,
   NavbarText
 } from 'reactstrap';
-
+import "./app.css"
 
 
 
@@ -58,7 +58,7 @@ const App = () => {
         <Route path="/Contact" component={Contact} />
       </Switch>
       </div>
-      <div  className="sticky-bottom">
+      <div  className="fixed-bottom">
       <Navbar color="light" light expand="md">
         <NavbarBrand >Brian Ratunil</NavbarBrand>
         <NavbarToggler onClick={toggle} />
