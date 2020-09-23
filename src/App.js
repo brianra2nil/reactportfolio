@@ -18,6 +18,10 @@ import {
   NavbarText
 } from 'reactstrap';
 
+
+
+
+
 const App = () => {
 
     const [isOpen, setIsOpen] = useState(false);
@@ -29,7 +33,7 @@ const App = () => {
       <div>
         <nav>
         <Navbar color="light" light expand="md">
-        <NavbarBrand href="">Brian Ratunil</NavbarBrand>
+        <NavbarBrand>Brian Ratunil</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
@@ -54,8 +58,37 @@ const App = () => {
         <Route path="/Contact" component={Contact} />
       </Switch>
       </div>
+      <div  className="fixed-bottom">
+      <Navbar color="light" light expand="md">
+        <NavbarBrand >Brian Ratunil</NavbarBrand>
+        <NavbarToggler onClick={toggle} />
+        <Collapse isOpen={isOpen} navbar>
+          <Nav className="mr-auto" navbar>
+            <NavItem>
+              <NavLink target="_blank"
+href="https://drive.google.com/file/d/1n2uYdPr-E6yxJLkdQUHKezOL0GprNJzN/view?usp=sharing2">My Resume</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink target="_blank" href="https://github.com/brianra2nil">GitHub</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink target="_blank" href="https://www.linkedin.com/in/brian-ratunil-0738b9102">LinkedIn</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink target="_blank" href="mailto:brianra2nil@hotmail.com">Email Me</NavLink>
+            </NavItem>
+            
+            
+          </Nav>
+          <NavbarText>&#169; 2020 - Brian Ratunil</NavbarText>
+        </Collapse>
+      </Navbar>
+    </div>
+      
     </Router>
+    
   )
 }
 
 export default App
+
