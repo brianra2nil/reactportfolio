@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/brianra2nil/reactportfolio/static/css/main.aafc2dc6.chunk.css",
+    "main.js": "/brianra2nil/reactportfolio/static/js/main.ee1fc32a.chunk.js",
+    "main.js.map": "/brianra2nil/reactportfolio/static/js/main.ee1fc32a.chunk.js.map",
+    "runtime-main.js": "/brianra2nil/reactportfolio/static/js/runtime-main.b38e5db0.js",
+    "runtime-main.js.map": "/brianra2nil/reactportfolio/static/js/runtime-main.b38e5db0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/brianra2nil/reactportfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4788feba.chunk.js": "/brianra2nil/reactportfolio/static/js/2.4788feba.chunk.js",
+    "static/js/2.4788feba.chunk.js.map": "/brianra2nil/reactportfolio/static/js/2.4788feba.chunk.js.map",
+    "index.html": "/brianra2nil/reactportfolio/index.html",
+    "precache-manifest.a74f986e276679e8960ad276fd749576.js": "/brianra2nil/reactportfolio/precache-manifest.a74f986e276679e8960ad276fd749576.js",
+    "service-worker.js": "/brianra2nil/reactportfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/brianra2nil/reactportfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.aafc2dc6.chunk.css.map": "/brianra2nil/reactportfolio/static/css/main.aafc2dc6.chunk.css.map",
+    "static/js/2.4788feba.chunk.js.LICENSE.txt": "/brianra2nil/reactportfolio/static/js/2.4788feba.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/brianra2nil/reactportfolio/static/media/burger.7efa08e3.png",
+    "static/media/codequiz.png": "/brianra2nil/reactportfolio/static/media/codequiz.2b80522d.png",
+    "static/media/coview19.png": "/brianra2nil/reactportfolio/static/media/coview19.5de6cc8a.png",
+    "static/media/employeesummary.png": "/brianra2nil/reactportfolio/static/media/employeesummary.fcc351c6.png",
+    "static/media/notetaker.png": "/brianra2nil/reactportfolio/static/media/notetaker.06aed427.png",
+    "static/media/picofme.png": "/brianra2nil/reactportfolio/static/media/picofme.09d945e4.png",
+    "static/media/pokemon.png": "/brianra2nil/reactportfolio/static/media/pokemon.21ed7f75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38e5db0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4788feba.chunk.js",
+    "static/css/main.aafc2dc6.chunk.css",
+    "static/js/main.ee1fc32a.chunk.js"
+  ]
+}

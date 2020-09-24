@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.css","app.css"],"names":[],"mappings":"AAAA,SACI,eAGD,CCJH,QACG,gBAAiB,CAChB,UAAW,CACX,aAAc,CACd,YACJ","file":"main.aafc2dc6.chunk.css","sourcesContent":[".heading {\r\n    font-weight: bold;\r\n    \r\n   \r\n   }",".footer {\r\n   position: \"fixed\";\r\n    bottom: \"0\";\r\n    height: \"60px\";\r\n    width: \"100%\"\r\n}"]}
