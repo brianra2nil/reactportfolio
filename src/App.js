@@ -41,10 +41,10 @@ const App = () => {
                   <NavLink href="/">Home</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="/Portfolio">Portfolio</NavLink>
+                  <NavLink href="/portfolio">Portfolio</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="/Contact">Contact</NavLink>
+                  <NavLink href="/contact">Contact</NavLink>
                 </NavItem>
 
               </Nav>
@@ -56,8 +56,8 @@ const App = () => {
 
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/Portfolio" component={Portfolio} />
-          <Route path="/Contact" component={Contact} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/contact" component={Contact} />
         </Switch>
 
 
