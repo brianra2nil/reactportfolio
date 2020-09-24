@@ -9,7 +9,8 @@ import { Container, Row, Col } from 'reactstrap';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 import { Alert } from 'reactstrap';
 
-const Example = (props) => {
+const Home = () => {
+// const Example = (props) => {
   return (
     <div>
       
@@ -68,4 +69,5 @@ const Example = (props) => {
   );
 };
 
-export default Example;
+// export default Example;
+export default Home;
