@@ -54,8 +54,8 @@ const App = () => {
         </nav>
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/Portfolio" component={Portfolio} />
-        <Route path="/Contact" component={Contact} />
+        <Route path="/portfolio" component={Portfolio} />
+        <Route path="/contact" component={Contact} />
       </Switch>
       </div>
       <div  className="fixed-bottom">
