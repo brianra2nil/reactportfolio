@@ -57,6 +57,7 @@ const Example = (props) => {
       <br/>
       <Alert color="dark">
         I previously worked in the freight and logistics industry for over 15 years starting out as a truck driver and working my way up through promotions such as a Dock Supervisor, Dispatcher and Freight Operations Manager.  <br/>
+        I was part of a deployment team when the company decided to use mobile handhelds that employees can use in the field and connect with the network and office staff.  I was asked to test, and deploy the software. <br/>
         I have always had an interest in computer software and hardware.  I enjoy creating applications that people can use to either have fun and/or help improve their lives easier through automation. <br/>
         I feel a great sense of accomplishment creating and designing something from scratch, that people can use anywhere they have a network connection.
         <br/>
